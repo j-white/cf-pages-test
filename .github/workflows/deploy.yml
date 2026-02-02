@@ -24,5 +24,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages deploy dist --project-name=still-tooth-87dd
+          command: pages deploy dist --project-name=cache-test
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
