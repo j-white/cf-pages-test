@@ -1,8 +1,0 @@
-https://app.relioncharging.com/*
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin
-  Access-Control-Allow-Origin: https://cache-test-8qc.pages.dev/
-  Content-Security-Policy: default-src 'none';
-  Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
